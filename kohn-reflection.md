@@ -1,4 +1,4 @@
-I am intimately familiar with Kohn’s article, and I have a lot to say about it. But first, some background. 
+I am intimately familiar with [Kohn’s article](https://www.alfiekohn.org/article/case-grades/), and I have a lot to say about it. But first, some background. 
 
 My eldest, Torin, has been the subject of a national educational experiment since 2015. Design thinking, place-based learning, and performance-based benchmarks were to be the cornerstones of a new, anti-grades model at GR Public Museum School, where Torin was one of the inaugural class of 2015. In 2016, GRPMS was one of ten schools awarded a prestigious 10 million dollar grant from the XQ Super School initiative. 
 
