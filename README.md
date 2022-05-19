@@ -2,4 +2,6 @@
 
 Files included:
 
-    1. Kohn Reflection
+1. Readme
+2. Kohn Reflection (prep1)
+3. Introducing Summer (prep2)
